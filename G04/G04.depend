@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\user\documents\algprog\codeblocks\g04\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527685536 source:c:\users\user\documents\algprog\codeblocks\g04\prueba.c
+	<stdio.h>
+	<stdlib.h>
+
+1527980057 source:c:\users\user\documents\algprog\codeblocks\g04\g04_ej15.c
+	<stdio.h>
+	<stdlib.h>
+	"Ej15.h"
+
+1527979895 c:\users\user\documents\algprog\codeblocks\g04\ej15.h
+
